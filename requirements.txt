@@ -50,7 +50,7 @@ comtypes==1.2.0
 confection==0.0.4
 contourpy==1.0.7
 ctranslate2==3.23.0
-cvxopt==1.3.0.1
+cvxopt==1.3.1
 cycler==0.11.0
 cymem==2.0.7
 Cython==0.29.33
